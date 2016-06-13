@@ -219,6 +219,7 @@
     <Content Include="Views\Home\George.cshtml" />
     <Content Include="Views\Home\Oebb.cshtml" />
     <Content Include="Views\Home\HelpGV.cshtml" />
+    <Content Include="Views\Home\Post.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

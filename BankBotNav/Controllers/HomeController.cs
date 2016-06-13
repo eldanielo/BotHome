@@ -45,6 +45,12 @@ namespace BankBotNav.Controllers
 
             return View();
         }
+        public ActionResult Post()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
 
 
 
