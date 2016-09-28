@@ -27,7 +27,7 @@ namespace BankBotNav.Controllers
             return View();
         }
 
-        public ActionResult Raiffeisen()
+        public ActionResult Palfinger()
         {
             ViewBag.Message = "Your application description page.";
 
