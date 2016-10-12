@@ -218,7 +218,7 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Home\Palfinger.cshtml" />
-    <Content Include="Views\Home\George.cshtml" />
+    <Content Include="Views\Home\BankBot.cshtml" />
     <Content Include="Views\Home\Oebb.cshtml" />
     <Content Include="Views\Home\HelpGV.cshtml" />
     <Content Include="Views\Home\Post.cshtml" />

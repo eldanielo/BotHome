@@ -20,7 +20,7 @@ namespace BankBotNav.Controllers
             return View();
         }
 
-        public ActionResult George()
+        public ActionResult BankBot()
         {
             ViewBag.Message = "Your application description page.";
 
